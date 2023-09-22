@@ -1,0 +1,9 @@
+.css{
+transition: 0.5s;
+}
+
+.css:hover{
+    color:yellowgreen !important;
+    font-size: 28px !important;
+    transition: 0.5s;
+}

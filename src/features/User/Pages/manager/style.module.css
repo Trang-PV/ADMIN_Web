@@ -1,0 +1,9 @@
+.delete{
+    transition: 0.5s;
+}
+
+.delete:hover{
+    color:yellowgreen !important;
+    font-size: 28px !important;
+    transition: 0.5s;
+}
